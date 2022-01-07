@@ -8,6 +8,6 @@ h2 {
 p {
 color: green;
 }
-a {
-  color : red;
+.btn-text {
+  text-decoration : none;
 }
